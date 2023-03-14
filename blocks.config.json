@@ -5,7 +5,7 @@
     "title": "Rakudoc",
     "description": "View and edit Raku Pod (aka pod6) content, with the ability to embed other blocks",
     "entry": "blocks/example-file-block/index.tsx",
-    "matches": ["*"],
+    "matches": ["*.pod6","*.rakudoc"],
     "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
   },
   
