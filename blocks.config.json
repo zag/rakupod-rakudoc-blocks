@@ -2,7 +2,7 @@
   {
     "type": "file",
     "id": "file-block",
-    "title": "Rakudoc",
+    "title": "Podlite",
     "description": "View and edit Raku Pod (aka pod6) content, with the ability to embed other blocks",
     "entry": "blocks/example-file-block/index.tsx",
     "matches": ["*.pod6","*.rakudoc"],
